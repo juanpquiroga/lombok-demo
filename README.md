@@ -7,7 +7,7 @@ Ejemplos
 --------
 
 Ejemplos de como hacer uso de las diferentes anotaciones que impactan sobre los
-mÃ©todos generados
+métodos generados
 
 -   Utilización de anotaciones getter y setter a nivel de atributos
 
@@ -15,7 +15,7 @@ mÃ©todos generados
 
 -   Equivalente a data utilizando las anotaciones getter, setter, tostring, ...
 
--   CÃ³mo excluir campos en las anotaciones equaldandhashcode y tostring
+-   Cómo excluir campos en las anotaciones equaldandhashcode y tostring
 
 -   Uso de la anotacion non null y su efecto al tratar de hacer set
 
